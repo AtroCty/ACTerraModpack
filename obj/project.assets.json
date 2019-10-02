@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\AtroCty-GL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\ACTerraModpack.csproj",
+      "projectName": "ACTerraModpack",
+      "projectPath": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\ACTerraModpack.csproj",
+      "packagesPath": "C:\\Users\\AtroCty-GL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AtroCty-GL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {}
+    }
+  }
+}
