@@ -29,3 +29,33 @@ C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\Mod Sources\ACTerraMod
 C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\Mod Sources\ACTerraModpack\obj\Debug\net45\ACTerraModpack.csproj.CopyComplete
 C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\Mod Sources\ACTerraModpack\obj\Debug\net45\ACTerraModpack.dll
 C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\Mod Sources\ACTerraModpack\obj\Debug\net45\ACTerraModpack.pdb
+D:\Projects\ACTerraModpack\bin\Debug\net45\ACTerraModpack.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\ACTerraModpack.pdb
+D:\Projects\ACTerraModpack\bin\Debug\net45\Ionic.Zip.Reduced.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\log4net.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Microsoft.Xna.Framework.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Microsoft.Xna.Framework.Game.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Microsoft.Xna.Framework.Graphics.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Microsoft.Xna.Framework.Xact.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Mono.Cecil.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Mono.Cecil.Mdb.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Mono.Cecil.Pdb.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\MonoMod.RuntimeDetour.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\MonoMod.Utils.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\MP3Sharp.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Newtonsoft.Json.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\NVorbis.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\ReLogic.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Steamworks.NET.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\System.ValueTuple.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Terraria.exe
+D:\Projects\ACTerraModpack\bin\Debug\net45\TerrariaHooks.dll
+D:\Projects\ACTerraModpack\bin\Debug\net45\Terraria.pdb
+D:\Projects\ACTerraModpack\bin\Debug\net45\Terraria.xml
+D:\Projects\ACTerraModpack\bin\Debug\net45\MonoMod.RuntimeDetour.xml
+D:\Projects\ACTerraModpack\bin\Debug\net45\MonoMod.Utils.xml
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.csproj.CoreCompileInputs.cache
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.AssemblyInfo.cs
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.csproj.CopyComplete
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.dll
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\ACTerraModpack.csproj",
+      "projectUniqueName": "D:\\Projects\\ACTerraModpack\\ACTerraModpack.csproj",
       "projectName": "ACTerraModpack",
-      "projectPath": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\ACTerraModpack.csproj",
+      "projectPath": "D:\\Projects\\ACTerraModpack\\ACTerraModpack.csproj",
       "packagesPath": "C:\\Users\\AtroCty-GL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AtroCty-GL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ACTerraModpack\\obj\\",
+      "outputPath": "D:\\Projects\\ACTerraModpack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AtroCty-GL\\AppData\\Roaming\\NuGet\\NuGet.Config",
