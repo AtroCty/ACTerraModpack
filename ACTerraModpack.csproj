@@ -8,14 +8,20 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <Target Name="BuildMod" AfterTargets="Build">
-    <Exec Command="&quot;$(tMLBuildServerPath)&quot; -build $(ProjectDir) -eac $(TargetPath) -define $(DefineConstants) -unsafe $(AllowUnsafeBlocks)" />
+    <Exec Command="&quot;$(tMLBuildServerPath)&quot; -build $(ProjectDir) -eac $(TargetPath) -define $(DefineConstants) -unsafe $(AllowUnsafeBaaalocks)" />
   </Target>
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="&quot;D:\Spiele\Steam\steamapps\common\Terraria\tModLoaderServer.exe&quot; -build &quot;$(ProjectDir)\&quot; -eac &quot;$(TargetPath)&quot;" />
   </Target>
   <ItemGroup>
+    <Reference Include="ExperienceAndClasses">
+      <HintPath>C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\references\mods\ExperienceAndClasses_v1.3.13.dll</HintPath>
+    </Reference>
     <Reference Include="Terraria">
       <HintPath>D:\Spiele\Steam\steamapps\common\Terraria\Terraria.exe</HintPath>
+    </Reference>
+    <Reference Include="ThoriumMod">
+      <HintPath>C:\Users\AtroCty-GL\Documents\My Games\Terraria\ModLoader\references\mods\ThoriumMod_v1.6.0.4.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>

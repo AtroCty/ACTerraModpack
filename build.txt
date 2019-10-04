@@ -2,3 +2,4 @@ buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
 displayName = ACTerra-Modpack
 author = AtroCty
 version = 0.1
+modReferences = ThoriumMod, ExperienceAndClasses

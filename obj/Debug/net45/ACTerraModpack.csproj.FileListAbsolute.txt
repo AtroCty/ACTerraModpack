@@ -59,3 +59,5 @@ D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.AssemblyInfo.cs
 D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.csproj.CopyComplete
 D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.dll
 D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.pdb
+D:\Projects\ACTerraModpack\obj\Debug\net45\ACTerraModpack.csprojAssemblyReference.cache
+D:\Projects\ACTerraModpack\bin\Debug\net45\ThoriumMod_v1.6.0.4.dll

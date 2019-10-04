@@ -1,4 +1,6 @@
 using Terraria.ModLoader;
+using ThoriumMod;
+using ExperienceAndClasses;
 
 namespace ACTerraModpack
 {
