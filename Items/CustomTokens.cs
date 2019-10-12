@@ -1,31 +1,51 @@
-﻿using ExperienceAndClasses;
-using ExperienceAndClasses.Abilities;
-using ExperienceAndClasses.Items;
-using ExperienceAndClasses.Recipes;
-using Microsoft.Xna.Framework;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using ThoriumMod;
 
 namespace ACTerraModpack.Items
 {
     /* Squire */
-    public class ClassToken_Bard : ClassToken_Novice
+    public class ClassToken_Bard : ModItem
     {
-        public ClassToken_Bard()
+        public override void SetStaticDefaults()
         {
-            name = "Bard";
-            tier = 2;
-            desc = "Basic melee damage and life class." +
-                       "\n\nClass advancement is available at level 45.";
+            String desc = "Basic melee damage and life class.";
+
+            if (Constants.UsingAutoTrash)
+            {
+                desc += " Get dunked on";
+            }
+            else
+            {
+                desc += " Not dunked on";
+            }
+            Tooltip.SetDefault(desc);
         }
+
+        public override void SetDefaults()
+        {
+            item.width = 36;
+            item.height = 36;
+            item.value = 0;
+            item.rare = 10;
+            item.accessory = true;
+            if (Constants.UsingThoriumMod)
+            {
+                // private readonly Mod ModThorium = ModLoader.GetMod("ThoriumMod");
+                // readonly ThoriumPlayer thoriumPlayer = player.GetModPlayer<ThoriumPlayer>();
+                ThoriumPlayer thoriumPlayer = Main.LocalPlayer.GetModPlayer<ThoriumPlayer>(ModLoader.GetMod("ThoriumMod"));
+                thoriumPlayer.bardResourceMax2 += 3;
+            }
+        }
+
         public override void AddRecipes()
         {
-            ModRecipe recipe = new ExperienceAndClasses.Recipes.ClassRecipes(mod, tier);
-            recipe.AddRecipeGroup("IronBar", 10);
-            Commons.QuckRecipe(mod, new int[,] { { mod.ItemType("ClassToken_Novice"), 1 } }, this, 1, recipe);
+            ModRecipe recipe = new ModRecipe(mod);
+            recipe.AddIngredient(ItemID.DirtBlock, 10);
+            recipe.SetResult(this);
+            recipe.AddRecipe();
         }
     }
 }

@@ -1,1 +1,1 @@
-ACTerra-Modpack is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+ACTerra-Modpack	is a mod that tries to create a modded experience without to worry about inconsistencies or setups. It is modular as possible, and tries to stitch mods together that doesn't fit on their own.
